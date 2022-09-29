@@ -2,7 +2,9 @@
 
 ## Description
 
-The purpose of this repository is to create a page that directs users 
+The purpose of this repository is to refactor the starter code provided with the Module 1 assignment. The objective of the webpage is to follow accessibility standards and streamlined code without affecting the overall visual of the page. 
+
+No installation required.
 
 ## User Story
 
@@ -25,4 +27,14 @@ The purpose of this repository is to create a page that directs users
 **WHEN** I view the title element
 **THEN** I find a concise, descriptive title
 
-## Mock Up
+## Assignment
+
+The assignment required little adjustment based off of the starter code. 
+
+In order of the acceptance criteria,
+* For the accessibility standards, I added alt text to all of the images and made the 
+
+## Credits
+
+Credits go to:
+* @cbazil797 
