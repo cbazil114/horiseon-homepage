@@ -28,24 +28,26 @@
     <!-- The alt attribute was not working. However, I used the title attribute as a workaround for alt text on all images -->
     <!-- After speaking with someone from AskBCS, they told me to use alt, and even if it does not show when you hover over an image, as long as it shows up in code then it is correct -->
     <!-- Changed div classes to main, section, aside, etc. -->
+    <!-- I don't fully understand why div is used here since it is not semantic, correct? -->
+    <div class="hero">
+    </div>
     <main>
-        <div class="hero" alt="Digital Marketing Meeting"></div>
         <section>
-            <div class="search-engine-optimization">
+            <div class="content">
                 <img src="./assets/images/search-engine-optimization.jpg" alt="Search Engine Optimization"class="float-left"/>
                 <h2>Search Engine Optimization</h2>
                 <p>
                     The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
                 </p>
             </div>
-            <div id="online-reputation-management" class="online-reputation-management">
+            <div class="content">
                 <img src="./assets/images/online-reputation-management.jpg" alt="Online Reputation Management" class="float-right" />
                 <h2>Online Reputation Management</h2>
                 <p>
                     The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
                 </p>
             </div>
-            <div id="social-media-marketing" class="social-media-marketing">
+            <div class="content">
                 <img src="./assets/images/social-media-marketing.jpg" alt="Social Media Marketing" class="float-left" />
                 <h2>Social Media Marketing</h2>
                 <p>
@@ -57,21 +59,21 @@
                 <!-- I adjusted the benefits section to be an <aside> element - a semantic HTML element.  -->
                     <!-- After speaking with a AskBCS learning assistant, they informed me that <div> is semantic, and therefore I do not need the <aside> element. -->
                         <!-- Another edit, I misunderstood the assignment based on the previous discussion with a learning assignment. Put aside back in -->
-            <div class="benefit-lead">
+            <div class="benefit">
                 <h3>Lead Generation</h3>
                 <img src="./assets/images/lead-generation.png" alt="Lead Generation"/>
                 <p>
                     Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
                 </p>
             </div>
-            <div class="benefit-brand">
+            <div class="benefit">
                 <h3>Brand Awareness</h3>
                 <img src="./assets/images/brand-awareness.png" alt="Brand Awareness"/>
                 <p>
                     Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
                 </p>
             </div>
-            <div class="benefit-cost">
+            <div class="benefit">
                 <h3>Cost Management</h3>
                 <img src="./assets/images/cost-management.png" alt="Cost Management"/>
                 <p>
