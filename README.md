@@ -40,7 +40,11 @@ In order of the acceptance criteria,
 
 Lastly, I condensed many categories under new classes, such as "benefits" and "content." That way, the stylesheet, and index.html became muchless clunky and streamlined much of the coding. 
 
+## Screenshot
 
+## Link
+
+The deployed application here: 
 ## Credits
 
 Credits go to:
