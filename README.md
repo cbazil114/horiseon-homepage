@@ -42,9 +42,14 @@ Lastly, I condensed many categories under new classes, such as "benefits" and "c
 
 ## Screenshot
 
+Here is the screenshot of the deployed webpage. As you can see, it looks the same as the mock up image. 
+
+![Horiseon Site Screenshot](/Users/connorbazil/Desktop/horiseon-homepage/assets/images/cbazil114.github.io_horiseon-homepage_.png)
+
+
 ## Link
 
-The deployed application here: 
+The deployed application here: https://cbazil114.github.io/horiseon-homepage/
 ## Credits
 
 Credits go to:
